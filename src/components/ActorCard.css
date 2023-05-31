@@ -1,0 +1,17 @@
+.actor-container {
+    width: 37px;
+    margin-left: -2px;
+  }
+  .actor-container img {
+    border-radius: 30%;
+    width: 30px;
+    height: 47px;
+  }
+  .actor-container span {
+    font-size: 11px;
+    font-family: "Istok Web";
+    font-style: normal;
+    font-weight: 380;
+    justify-content: center;
+    width: 80%;
+}

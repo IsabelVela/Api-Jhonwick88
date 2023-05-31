@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "imgsrc":"/static/images/1.jpg",
+        "name":"Marko Zaror Chidi"
+    },
+    {
+        "id": 2,
+        "imgsrc":"/static/images/2.jpg",
+        "name":"Bill Skarsgard Marquis"
+    },
+    {
+        "id": 3,
+        "imgsrc":"/static/images/3.jpg",
+        "name":"Keanu Reeves John Wick"
+    },
+    {
+        "id": 4,
+        "imgsrc":"/static/images/4.jpg",
+        "name":"Hiroyuki Sanada Shimazu"
+    },
+    {
+        "id": 5,
+        "imgsrc":"/static/images/5.jpg",
+        "name":"Brahim Chad Thug 1"
+    }
+   
+]
